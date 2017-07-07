@@ -19,7 +19,7 @@
 * [expect.js (Inglês)](https://github.com/Automattic/expect.js)
 * [should.js (Inglês)](http://shouldjs.github.io/)
 
-##### Test Spies, Stubs, e Mocks para Teste Unitário:
+##### Test Spies, Stubs e Mocks para Teste Unitário:
 
 * [sinon.js (Inglês)](http://sinonjs.org/)
 * [Kakapo.js (Inglês)](http://devlucky.github.io/kakapo-js)
